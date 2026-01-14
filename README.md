@@ -14,7 +14,7 @@ Part architect, part mad scientist — I'm driven by understanding how things wo
 
 ## 🔭 What I'm Up To
 
-- Focused on build the best product ever 
+- Focused on build the best product ever
 - Exploring any crazy ideas and projects @ Sotavento Labs
 - Riding the wave and trying to understand how AI will shape the future of sofware and IT systems
 - Building more side projects than ever!
@@ -23,9 +23,9 @@ Part architect, part mad scientist — I'm driven by understanding how things wo
 
 ## 📊 Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gzrubio&theme=tokyonight" alt="Profile Details" />
-
 <img src="/metrics-languages.svg" alt="Languages" />
+
+<img src="/metrics-isocalendar.svg" alt="Isocalendar" />
 
 ---
 
